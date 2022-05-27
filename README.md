@@ -1,4 +1,4 @@
-# MoneyInC-
+# MoneyInC#
 
 For study purposes. This repo contains some samples on how C# interacts with currency and strings.
 
